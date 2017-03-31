@@ -1,0 +1,6 @@
+c:\users\ronald.junior\documents\visual studio 2015\Projects\SortExamples\SortExamples\bin\Debug\SortExamples.exe.config
+c:\users\ronald.junior\documents\visual studio 2015\Projects\SortExamples\SortExamples\bin\Debug\SortExamples.exe
+c:\users\ronald.junior\documents\visual studio 2015\Projects\SortExamples\SortExamples\bin\Debug\SortExamples.pdb
+c:\users\ronald.junior\documents\visual studio 2015\Projects\SortExamples\SortExamples\obj\Debug\SortExamples.csprojResolveAssemblyReference.cache
+c:\users\ronald.junior\documents\visual studio 2015\Projects\SortExamples\SortExamples\obj\Debug\SortExamples.exe
+c:\users\ronald.junior\documents\visual studio 2015\Projects\SortExamples\SortExamples\obj\Debug\SortExamples.pdb
